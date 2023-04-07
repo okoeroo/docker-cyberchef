@@ -1,5 +1,5 @@
 # vim:ft=make:
-APP_NAME="mpepping/cyberchef"
+APP_NAME="okoeroo/cyberchef"
 
 # HELP
 # This will output the help for each task
