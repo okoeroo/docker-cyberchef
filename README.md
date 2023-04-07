@@ -1,14 +1,5 @@
 # docker-cyberchef
 
-[![Docker Pulls](https://badgen.net/docker/pulls/okoeroo/cyberchef?icon=docker&label=pulls)](https://hub.docker.com/r/trueosiris/godaddypy/)
-[![Docker Stars](https://badgen.net/docker/stars/okoeroo/cyberchef?icon=docker&label=stars)](https://hub.docker.com/r/trueosiris/godaddypy/)
-[![Docker Image Size](https://badgen.net/docker/size/okoeroo/cyberchef?icon=docker&label=image%20size)](https://hub.docker.com/r/trueosiris/godaddypy/)
-![Github stars](https://badgen.net/github/stars/okoeroo/docker-cyberchef?icon=github&label=stars)
-![Github forks](https://badgen.net/github/forks/okoeroo/docker-cyberchef?icon=github&label=forks)
-![Github issues](https://img.shields.io/github/issues/okoeroo/docker-cyberchef)
-![Github last-commit](https://img.shields.io/github/last-commit/okoeroo/docker-cyberchef)
-
-
 GCHQ [CyberChef](https://github.com/gchq/CyberChef/) in a container. CyberChef is *the* **Cyber Swiss Army Knife** web app for encryption, encoding, compression and data analysis.
 
 New container-images for both the [CyberChef master branch](https://github.com/gchq/CyberChef) as well as new [CyberChef releases](https://github.com/gchq/CyberChef/releases) are build on a daily base. See [https://hub.docker.com/r/okoeroo/cyberchef/](https://hub.docker.com/r/okoeroo/cyberchef/).
